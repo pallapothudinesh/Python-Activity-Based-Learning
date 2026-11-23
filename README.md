@@ -315,8 +315,8 @@ python programs/case_10_smart_canteen.py
 
 ## Author & Academic Details
 
-- **Student Name**: Mudunuri V N Ramakrishna Varma
-- **Roll Number**: 26000640
+- **Student Name**: Dinesh Pallapothu
+- **Roll Number**: 26000661
 - **Course / Branch**: B.Tech - Computer Science and Engineering (CSE)
 - **Institution**: Dr. RVR NRI University
-- **Assignment Report**: Original Gamma PDF report preserved in [`report/assignment_report.pdf`](report/assignment_report.pdf)
+- **Assignment Report**: Presentation report preserved in [`report/assignment_report.pdf`](report/assignment_report.pdf) and [`report/assignment_report.pptx`](report/assignment_report.pptx)
